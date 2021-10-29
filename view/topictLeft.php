@@ -3,17 +3,18 @@
             <h5>Topics </h5><hr class="no-margin">
             <ul class="list-unstyled">
                 <li>
-                    <a href="display/Adjectives.php">
+                    <a href="view/display/Adjectives.php">
                         <span class="fa fa-angle-double-right text-primary"></span>Adjectives
                     </a>
+                    
                 </li>
                 <li>
-                    <a href="display/Adjectives.php">
+                    <a href="view/display/Adverbs.php">
                         <span class="fa fa-angle-double-right text-primary"></span>Adverbs
                     </a>
                 </li>
                 <li>
-                    <a href="#setting-up-our-page">
+                    <a href="view/display/Business_Writing.php">
                         <span class="fa fa-angle-double-right text-primary"></span>Business Writing
                     </a>
                 </li>

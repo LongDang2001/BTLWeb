@@ -1,22 +1,12 @@
-<?php
-include '../header.php';
-
-?>
-
 
 <div class="container">
     <?php
-    include '../topictLeft.php';
-    include '../conflig.php';
-
-    // $sql = "SELECT * FROM ";
-
+    include '../../model/conflig.php';
+    // truy xuat myqli huowngs doi tuong: 
     // lay ra  giao dien, hien thi du lieu ra va nem no vao trong table: 
-
-    echo '<h3> Tieu de cua de bai </h3>';
-
+    
+    echo '<h3> Tieu de cua de bai aaaa </h3>';
     ?>
-
     <div>
         <h3> Tieu de cua de bai </h3>
         <a href="Adjectives1.php" style="color: blue;">  continue </a>
@@ -35,8 +25,6 @@ include '../header.php';
             </label>
         </div>
     </div>
-
-
 
 </div>
 
