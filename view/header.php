@@ -30,15 +30,22 @@
                         </li>
 
                         <li>
-                            <a href="#">Search</a>
+                            <a href="view/createDeThi.php"> Them De Thi </a>
                         </li>
 
                         <li>
-                            <a href="#">Features</a>
+                            <a href="view/deleteDeThi.php">Xoa De Thi  </a>
                         </li>
 
                         <li>
                             <a href="#">Blog</a>
+                        </li>
+
+
+                        <li>
+                            <input type="text" >
+
+                            <label for=""> SEARCH </label>
                         </li>
                     </ul>
                 </div>

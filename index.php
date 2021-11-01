@@ -17,9 +17,8 @@
     ?>
     <!-- THIS IS NOT NEEDED, THIS IS JUST THE CONTENT OF THE DEMO -->
     <div class="col-xs-12 col-sm-9">
-        <p class="small text-muted">Published May 19, 2015 by Mouse0270</p>
-        <h3 id="intro" class="title">Fading Side Menu</h3>
-        <p class="lead">Lets Focus on Content</p>
+        
+        <h3 id="intro" class="title">Fading Side Menu English </h3>
         
         <p>I was browsing the web when I came across a tutorial on <a href="http://www.html5rocks.com/" target="_blank">HTML5 Rocks</a> and realized they have one of the coolest effect and subtle effects I have never seen before on any other blog/tutorial site. It is so simple and elegant I couldn't wait to try and replicate it. I would like to point out I did replicate it <strong>NOT</strong> it. I never even looked at the source code nor do I know how they actually accomplished their version of this. I do however give them full credit for not only the inspiration but the design. It is a really amazing and simple effect.</p>
         <p>Alright, so what does this actually do. While if you notice to the left (if you are viewing this on <em>xs</em> device it will not show) we have a side menu that looks pretty ordinary. It will use <a href="http://getbootstrap.com/" target="_blank">Bootstrap's'</a> affix plugin to stick itself to the top of the screen as you scroll down. After the side menu has gotten the class <code>affix</code> from bootstrap it will slowly start to fade out until you can barely see it. If you Hover over it or back to the top, you will notice it will quickly fade back into view. This very simple and small effect, helps users focus on the content of the blog, while still having an unobtrusive side menu.</p>
